@@ -2,8 +2,6 @@ rencana konten rahman
 mtk
 -al jabar
 -dua variabel
--limit
 -kalkulus
 fisika
 kimia
-sosiologi
