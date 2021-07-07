@@ -1,8 +1,7 @@
 rencana konten rahman
 mtk
 -al jabar
--trigonometri
 -dua variabel
 fisika
 kimia
-biologi
+sosiologi
