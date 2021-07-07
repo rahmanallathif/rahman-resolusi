@@ -3,6 +3,8 @@ mtk
 -al jabar
 -trigonometri
 -dua variabel
+-limit
+-kalkulus
 fisika
 kimia
 biologi
